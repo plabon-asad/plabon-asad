@@ -3,6 +3,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plabon-asad&show_icons=true&locale=en" alt="plabon-asad" /></p>
 
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
 
