@@ -1,16 +1,17 @@
-<!-- <h1 align="center">Hi 👋, I'm Plabon Asad</h1> -->
-<p align="left">Expert in JavaScript(Angular), Ionic(Android & IOS), and Flutter(Dart) development from scratch. I build open-source projects & write the missing instruction manuals of the web with professional experience. I am working with a new technology Ruby on Rails approximately 2 years also.</p><img src="https://komarev.com/ghpvc/?username=plabon-asad&label=Profile%20views&color=0e75b6&style=flat" alt="plabon-asad" />
+
+<p align="left">Expert in JavaScript(Angular), Ionic(Android & IOS), and Flutter(Dart) development from scratch. I build open-source projects & write the missing instruction manuals of the web with professional experience. I am working with a new technology Ruby on Rails approximately 2 years also.</p>
+<img src="https://komarev.com/ghpvc/?username=plabon-asad&label=Profile%20views&color=success&style=flat" alt="plabon-asad" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plabon-asad&show_icons=true&locale=en" alt="plabon-asad" /></p>
 
-### Full Stack Projects
+<h5 align="left">Best products | I am proud for these works as well</h5>
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-333)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-333)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-333)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-333)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-333)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-333)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
 <h5 align="left">Languages and Tools:</h5>
@@ -29,5 +30,6 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/plabon_asad" target="blank"><img src="https://img.shields.io/twitter/follow/plabon_asad?logo=twitter&style=for-the-badge" alt="plabon_asad" /></a> </p> -->
 
-
-Help link [click here](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+<h5 align="left">Connect with me:</h5>
+[Link](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+[Link](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
