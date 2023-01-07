@@ -2,7 +2,7 @@
 
 Technology  | Name | Experience Year |
 ------------- | ------------- | -------------
-`✅ Angular` `✅ Vue.js`  | Frontend Development | 5 years |
+`✅ Angular` `✅ Vue.js`  | Frontend Development | 4 years |
 `✅ Ionic` `✅ Flutter`  | Hybrid Mobile Development | 3 years |
 `✅ Ruby on Rails` `✅ Laravel`  | Backend Development | 2 years |
 
