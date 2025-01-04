@@ -1,10 +1,11 @@
-<img src="https://img.shields.io/static/v1?label=Version&message=1.0.3&color=success" alt="plabon-asad" /> <img src="https://komarev.com/ghpvc/?username=plabon-asad&label=Profile%20views&color=success&style=flat" alt="plabon-asad" />
+<img src="https://img.shields.io/static/v1?label=Version&message=1.0.4&color=success" alt="plabon-asad" /> <img src="https://komarev.com/ghpvc/?username=plabon-asad&label=Profile%20views&color=success&style=flat" alt="plabon-asad" />
 
 Technology  | Name | Experience Year |
 ------------- | ------------- | -------------
-`✅ Angular` `✅ Vue.js`  | Frontend Development | 4 years |
-`✅ Ionic` `✅ Flutter`  | Hybrid Mobile Development | 3 years |
-`✅ Ruby on Rails` `✅ Laravel`  | Backend Development | 2 years |
+`✅ Javascript` `✅ Node.js` `✅ Ruby` `✅ Python`  | Language | 4 years |
+`✅ Angular` `✅ React`  | Frontend Development | 4 years |
+`✅ Ionic` `✅ Flutter`  | Hybrid Mobile Development | 4 years |
+`✅ Ruby on Rails` `✅ Laravel` `✅ Nest.js`  | Backend Development | 4 years |
 
 I am available to work with you- <br>
 🔰 [Hire me on Fiverr](https://www.fiverr.com/plabon_asad)<br>
