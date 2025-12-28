@@ -2,10 +2,10 @@
 
 Technology  | Name | Experience Year |
 ------------- | ------------- | -------------
-`✅ Javascript` `✅ TypeScript` `✅ Node.js` `✅ Ruby` `✅ Python`  | Language | 6 years |
+`✅ Javascript` `✅ TypeScript` `✅ Node.js` `✅ PHP`  | Language | 6 years |
 `✅ Angular` `✅ React`  | Frontend Development | 6 years |
 `✅ Ionic` `✅ React Native`  | Hybrid Mobile Development | 6 years |
-`✅ Next.js` `✅ Ruby on Rails` `✅ Laravel` `✅ Nest.js`  | Backend Development | 6 years |
+`✅ Next.js` `✅ Laravel` `✅ Nest.js`  | Backend Development | 6 years |
 
 I am available to work with you- <br>
 🔰 [Hire me on Fiverr](https://www.fiverr.com/plabon_asad)<br>
